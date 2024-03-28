@@ -4,47 +4,47 @@
         "id": "1",
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "I am well suited for Front End development with a variety of technologies such as HTML, CSS, Javascript frameworks , ie, ReactJS and VueJs"
       },
       {
         "id": "2",
         "src": "./img/tag-1.png",
         "title": "Back-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "I am a master of database design and integration to front end development with a variety of technologies such as Ruby, Node.js and Python."
       },
       {
         "id": "3",
         "src": "./img/feather-pen-2.png",
-        "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "title": "Mobile Application Development",
+        "description": "I developed modern mobile applications which are scabale and user-friendly for you mobile users, both Android and IOS"
       },
       {
         "id": "4",
         "src": "./img/feather-pen-1.png",
-        "title": "Webflow Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "title": "IT Consultations and Maintenance.",
+        "description": "I consult for basic IT solutions and also do thorough maintenance."
       }
     ],
     "portfolio": [
       {
         "id": "1",
-        "src": "./img/placeholder-image.png",
-        "title": "Ahuse",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "src": "./img/placeholder-image-2.jpg",
+        "title": "DELIVERANCE CHURCH UTAWALA WEBSITE",
+        "description": "I developed this project for the Deliverance Church Utawala.",
         "link": "View In Github"
       },
       {
         "id": "2",
-        "src": "./img/placeholder-image-1.png",
-        "title": "App Dashboard",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "src": "./img/placeholder-image-1.jpg",
+        "title": "TMK PARKING SYSTEM PROJECT.",
+        "description": "Parking System I developed for TMK Services.",
         "link": "View In Github"
       },
       {
         "id": "3",
-        "src": "./img/placeholder-image-2.png",
-        "title": "Easy Rentn",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "src": "./img/placeholder-image-3.jpg",
+        "title": "COLLO PHOTOGRAPHY PROJECT",
+        "description": "Photography Portfolio website",
         "link": "View In Github"
       }
     ],
@@ -52,26 +52,16 @@
       {
         "id": "1",
         "count": "5",
-        "src": "./img/avatar-image.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Dianne Russel",
-        "author_designation": "Starbucks"
+        "description": "We are very satisfied with Trevor's work. We rate out out of five",
+        "author_name": "Deliverance Church Utawala",
+        "author_designation": "Utawala, Nairobi"
       },
       {
         "id": "2",
         "count": "5",
-        "src": "./img/avatar-image-1.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Kristin Watson",
-        "author_designation": "Louis Vuitton"
-      },
-      {
-        "id": "3",
-        "count": "5",
-        "src": "./img/avatar-image-2.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Kathryn Murphy",
-        "author_designation": "McDonald's"
+        "description": "Trevor really understood my needs and requirements and came to my aid.",
+        "author_name": "Collins Mwangi",
+        "author_designation": "Utawala, Nairobi"
       }
     ]
   }
